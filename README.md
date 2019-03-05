@@ -1,1 +1,1 @@
-# wordFinder - HashTable Realization
+# wordFinder - HashTable Implementation
